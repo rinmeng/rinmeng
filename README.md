@@ -1,4 +1,4 @@
-# Currently working on [tseng photo](https://tsengphoto.vercel.app)
+# My latest website madea for a photographer, [tseng photo](https://tsengphoto.vercel.app)
 
 ## [kdt's website](https://kdtsuo.vercel.app)
 
