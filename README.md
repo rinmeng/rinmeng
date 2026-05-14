@@ -1,4 +1,4 @@
-# My latest website made for a photographer, [tseng photo](https://tsengphoto.ca)
+# My latest work i made for a photographer, [tseng photo](https://tsengphoto.ca)
 
 ## [kdt's website](https://kdtsuo.vercel.app)
 
