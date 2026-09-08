@@ -2,7 +2,5 @@
 <p align="center">
   <a href="https://web8th.com" target="_blank" rel="noopener noreferrer"><img width="209" height="100" alt="8th_black_bg_webp" src="https://github.com/user-attachments/assets/0525e70c-93bc-411d-a26c-2e56e4fe8183" /></a>
   &nbsp;&nbsp;
-  <img width="60" height="60" alt="x" src="https://github.com/user-attachments/assets/0fa2f3fc-387f-4b77-b39f-9855c405f17f" />
-  &nbsp;&nbsp;
   <a href="https://rinm.dev" target="_blank" rel="noopener noreferrer"><img width="176" height="100" alt="rmlogov2" src="https://github.com/user-attachments/assets/f42df04c-4d79-49c1-ad08-929f60819bc5" /></a>
 </p>
